@@ -22,4 +22,5 @@ p.join()
 for i in shm:
     print(i)
 
-print(shm.value) # 
+print(shm.value) #打印值
+print(i.value)
